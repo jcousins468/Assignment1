@@ -1,0 +1,17 @@
+jonah.txt
+jonahcousins@jonahs-mbp Documents % mkdir SofDev1
+jonahcousins@jonahs-mbp Documents % cd SofDev1 
+jonahcousins@jonahs-mbp SofDev1 % mkdir Unit01
+jonahcousins@jonahs-mbp SofDev1 % cd Unit01
+jonahcousins@jonahs-mbp Unit01 % 
+jonahcousins@jonahs-mbp Unit01 % nano file1.txt
+jonahcousins@jonahs-mbp Unit01 % nano file2.txt
+jonahcousins@jonahs-mbp Unit01 % mkdir Assignment1
+jonahcousins@jonahs-mbp Unit01 % cd Assignment1 
+jonahcousins@jonahs-mbp Assignment1 % 
+jonahcousins@jonahs-mbp Assignment1 % mkdir Jonah %
+jonahcousins@jonahs-mbp Jonah % 
+jonahcousins@jonahs-mbp Jonah % mv Unit01\file2.txt
+jonahcousins@jonahs-mbp Jonah % nano file2.txt
+jonahcousins@jonahs-mbp Unit01 % cd ..
+jonahcousins@jonahs-mbp Unit01 % rm-r Assignment1
